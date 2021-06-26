@@ -1,0 +1,41 @@
+.address{
+    margin-top: 80px;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 20px;
+}
+
+.store{
+   margin-top: 80px;
+   border-radius: 15px;
+   margin-bottom: 150px;
+   
+}
+
+.jumbotron{
+    background: linear-gradient(247deg, #ffda00 0%, rgba(209,52,130,1) 100%);
+    background-repeat:no-repeat;
+}
+
+.footer{
+    background-color: #ffda00;
+    padding-bottom: 70px;
+    color: white;
+
+}
+
+.social{
+    color:white;
+    font-size: medium;
+    text-align: center;
+    padding-top: 2px;
+}
+
+.icons{
+    text-align: center;
+    padding-top: 15px;
+}
+
+#map{
+    padding-bottom: 80px;
+    border-radius: 35px;
+}

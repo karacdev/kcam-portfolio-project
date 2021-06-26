@@ -101,6 +101,7 @@ h3 {
 
 .showcase{
     padding-bottom: 80px;
+    box-shadow: turquoise;
 }
 .footer{
     background-color: #ffda00;
